@@ -16,18 +16,12 @@ Este projeto permite **criptografar e descriptografar mensagens** de forma simpl
 
 ---
 
-##  Funcionalidades
-
--  Criptografa mensagens usando uma chave numérica  
--  Descriptografa mensagens cifradas  
--  Trata letras maiúsculas e minúsculas  
--  Ignora caracteres especiais e espaços (opcional)  
-
----
-
 ##  Exemplo de uso
 
 ```bash
 Digite a chave de criptografia (número inteiro): 3
 Digite o texto a ser criptografado: ola mundo
 Texto criptografado: rod pxqgr
+
+Desenvolvido por Isabella Magalhães
+Projeto criado com fins educativos para prática de lógica e criptografia.
