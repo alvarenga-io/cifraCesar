@@ -25,5 +25,5 @@ Texto criptografado: rod pxqgr
 ```
 ----
 
-Desenvolvido por Isabella Magalhães
+Desenvolvido por Isabella Magalhães.
 Projeto criado com fins educativos para prática de lógica e criptografia.
