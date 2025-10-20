@@ -1,6 +1,6 @@
 # Cifra de César — Python
 
-Um programa simples desenvolvido em Python para aplicaa a **Cifra de César**.
+Um programa simples desenvolvido em Python para aplicar a **Cifra de César**.
 
 ---
 
