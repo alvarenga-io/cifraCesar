@@ -2,7 +2,7 @@
 
 Um programa simples desenvolvido em Python para aplicar a **Cifra de César**.
 
-O projeto foi concebido no contexto de estudo da criptografia a fim de análisar a evolução de suas técnicas ao longo da história.
+O projeto foi concebido no estudo da criptografia a fim de análisar a evolução de suas técnicas ao longo da história.
 
 ---
 
@@ -26,10 +26,7 @@ Digite o texto a ser criptografado: ola mundo
 Texto criptografado: rod pxqgr
 ```
 ----
-##  Próximos passos
-- Implementar a cifra de vigènere
-- Desenvolver uma interface
   
-Desenvolvido por Isabella Magalhães.
+Desenvolvido por Isabella Alvarenga.
 
 Projeto criado com fins educativos para prática de lógica e criptografia.
